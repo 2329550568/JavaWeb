@@ -7,234 +7,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478f103-cfed-4fdb-b2a6-4c53562c49a9" name="Default Changelist" comment="半前端项目(魄罗)">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/35284323_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/League_of_Legends_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/connotation_project_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/games_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/working_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/League of Legends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/basedao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/basedao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/basedao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/entity/Comm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/entity/address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/Upuser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/addressup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/collectinse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/ddcgSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/deleshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/dlshopuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/insertShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/orderSele.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/orderaddressup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/remoUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectComZb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectHyh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectuser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectuserDh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/selectuserUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/servlet/shopupda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/src/webProject/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/fastjson-1.2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/junit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/images/sc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/js/Leagueofjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/js/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/demo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/denlv.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/detail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/index4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/League of Legends/web/loldemo/shopping.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/META-INF/35284323潘亮.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/daoimpl/raindaoimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/raindao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/entity/rainquality.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/rainservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/serviceimpl/rainserviceimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/dele.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/inse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/text/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/fastjson-1.2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/inse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/META-INF/League of Legends.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/basedao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/basedao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/basedao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/entity/Comm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/entity/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/entity/address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/Upuser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/addressup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/collectinse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/ddcgSelect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/deleshop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/dlshopuse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/insertShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/orderSele.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/orderaddressup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/remoUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectCom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectComZb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectHyh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectuser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectuserDh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/selectuserUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/servlet/shopupda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/classes/webProject/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/fastjson-1.2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/junit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/images/sc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/js/Leagueofjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/js/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/demo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/denlv.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/detail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/index4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/League_of_Legends_war_exploded/loldemo/shopping.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/35284323潘亮.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/libraries/commons_fileupload_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/35284323潘亮.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/META-INF/35284323潘亮.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/dao/daoimpl/raindaoimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/dao/raindao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/entity/rainquality.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/service/rainservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/service/serviceimpl/rainserviceimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/servlet/dele.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/servlet/inse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/RainManage/text/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/extended/lesson/ReflctDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/fastjson-1.2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/inse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/js/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/web/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/反射/FiledDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/反射/MethodDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/35284323潘亮/反射/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/META-INF/League of Legends.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/basedao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/basedao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/basedao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/entity/Comm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/entity/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/entity/address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/Upuser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/addressup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/collectinse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/ddcgSelect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/deleshop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/dlshopuse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/insertShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/orderSele.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/orderaddressup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/remoUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectCom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectComZb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectHyh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectuser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectuserDh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/selectuserUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/servlet/shopupda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/League of Legends/webProject/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/META-INF/connotation-project.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/dao/cotiondao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/dao/dao/impl/cotiondaoimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/entity/cotion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/service/cotionservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/service/service/impl/cotionserviceimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/connotation-project/test/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/games/META-INF/games.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/League of Legends/META-INF/League of Legends.kotlin_module" afterDir="false" />
+    <list default="true" id="1478f103-cfed-4fdb-b2a6-4c53562c49a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -254,10 +28,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/League of Legends/web/loldemo/index4.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="473" column="82" selection-start-line="473" selection-start-column="82" selection-end-line="473" selection-end-column="82" />
+            <state relative-caret-position="349">
+              <caret line="408" column="60" selection-start-line="408" selection-start-column="60" selection-end-line="408" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -455,6 +230,13 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="737" />
     <option name="y" value="-22" />
@@ -468,7 +250,17 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -495,7 +287,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -864,8 +656,16 @@
       <workItem from="1585031329232" duration="5061000" />
       <workItem from="1585117156933" duration="1559000" />
       <workItem from="1585184650893" duration="33649000" />
-      <workItem from="1585278339569" duration="6723000" />
+      <workItem from="1585278339569" duration="7031000" />
     </task>
+    <task id="LOCAL-00001" summary="半前端项目(魄罗)">
+      <created>1585288253897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585288253897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -886,7 +686,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="885594000" />
+    <option name="totallyTimeSpent" value="885902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,15 +699,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.3895184" side_tool="true" weight="0.16912752" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.70947367" visible="true" weight="0.23758389" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7092199" visible="true" weight="0.23758389" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info id="Web" order="7" sideWeight="0.29052633" side_tool="true" visible="true" weight="0.23758389" />
+      <window_info id="Web" order="7" sideWeight="0.29078013" side_tool="true" visible="true" weight="0.23758389" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3286119" />
@@ -921,7 +722,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" sideWeight="0.4986577" visible="true" weight="0.32624114" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4986577" weight="0.32624114" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.05382436" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -1396,10 +1197,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/League of Legends/web/loldemo/index4.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="473" column="82" selection-start-line="473" selection-start-column="82" selection-end-line="473" selection-end-column="82" />
+        <state relative-caret-position="349">
+          <caret line="408" column="60" selection-start-line="408" selection-start-column="60" selection-end-line="408" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#2;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
