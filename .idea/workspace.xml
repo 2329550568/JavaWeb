@@ -1,29 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="35284323潘亮:war exploded" />
+      <artifact name="League of Legends:war exploded" />
+      <artifact name="connotation-project:war exploded" />
+      <artifact name="games:war exploded" />
+      <artifact name="working:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2453d211-f2aa-444b-99da-2b84b9c44ae3" name="Default Changelist" comment="前端项目">
+      <change afterPath="$PROJECT_DIR$/前端项目(魄罗)潘亮.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__2_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__2_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__5_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__5_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/League of Legends/League of Legends.iml" beforeDir="false" afterPath="$PROJECT_DIR$/League of Legends/League of Legends.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/META-INF/35284323潘亮.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/daoimpl/raindaoimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/raindao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/entity/rainquality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/rainservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/serviceimpl/rainserviceimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/dele.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/inse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/text/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/fastjson-1.2.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/log4j-1.2.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/inse.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.12.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.8.3.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="League of Legends/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="772" />
-    <option name="y" value="95" />
+    <option name="x" value="663" />
+    <option name="y" value="100" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="League of Legends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:6060/League_of_Legends_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
+        <artifact name="35284323潘亮:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/35284323_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="connotation-project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/connotation_project_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="games:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/games_war_exploded" />
+          </settings>
+        </artifact>
         <artifact name="League of Legends:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/League_of_Legends_war_exploded" />
           </settings>
         </artifact>
+        <artifact name="working:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/working_war_exploded" />
+          </settings>
+        </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_26_JavaWeb_8" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_26_JavaWeb_9" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -31,7 +166,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="27948" />
+        <option name="DEBUG_PORT" value="28713" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -81,13 +216,44 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
+          <artifact name="35284323潘亮:war exploded" />
+          <artifact name="connotation-project:war exploded" />
+          <artifact name="games:war exploded" />
           <artifact name="League of Legends:war exploded" />
+          <artifact name="working:war exploded" />
         </option>
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:6060/League_of_Legends_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
+      <deployment>
+        <artifact name="35284323潘亮:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/35284323_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="connotation-project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/connotation_project_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="games:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/games_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="League of Legends:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/League_of_Legends_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="working:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/working_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
       </server-settings>
@@ -97,7 +263,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="27948" />
+        <option name="DEBUG_PORT" value="28713" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -146,7 +312,187 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="35284323潘亮:war exploded" />
+          <artifact name="connotation-project:war exploded" />
+          <artifact name="games:war exploded" />
+          <artifact name="League of Legends:war exploded" />
+          <artifact name="working:war exploded" />
+        </option>
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="350000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="前端项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端项目" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/League of Legends/web/loldemo/demo1.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/League of Legends/web/js/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端项目(魄罗)潘亮.patch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>League of Legends</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
