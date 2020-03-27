@@ -10,37 +10,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2453d211-f2aa-444b-99da-2b84b9c44ae3" name="Default Changelist" comment="前端项目">
-      <change afterPath="$PROJECT_DIR$/前端项目(魄罗)潘亮.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__2_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__2_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__5_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_2_2__5_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/League of Legends/League of Legends.iml" beforeDir="false" afterPath="$PROJECT_DIR$/League of Legends/League of Legends.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/META-INF/35284323潘亮.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/BaseDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/daoimpl/raindaoimpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/dao/raindao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/entity/rainquality.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/rainservice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/service/serviceimpl/rainserviceimpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/dele.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/servlet/inse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/classes/RainManage/text/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/fastjson-1.2.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/log4j-1.2.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/lib/standard.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/inse.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.12.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/35284323_war_exploded/js/jquery-1.8.3.min.js" beforeDir="false" />
-    </list>
+    <list default="true" id="2453d211-f2aa-444b-99da-2b84b9c44ae3" name="Default Changelist" comment="前端项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,9 +38,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="663" />
-    <option name="y" value="100" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="806" />
+    <option name="y" value="30" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -110,6 +80,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javawebs" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -329,12 +300,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350000" />
+    <option name="totallyTimeSpent" value="481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="645" y="24" width="784" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5138122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
